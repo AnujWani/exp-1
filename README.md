@@ -1,4 +1,8 @@
 # exp-1
 Repo for learning
 
-Anyone new in github is welcome to learn
+Fork this repo and clone it
+
+Make your changes in test file
+
+Commit and push it.
